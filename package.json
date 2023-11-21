@@ -1,0 +1,12 @@
+{
+  "name": "assessment-project",
+  "version": "1.0.0",
+  "description": "assessment",
+  "main": "quiz.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChrissieGomez",
+  "license": "ISC"
+}
